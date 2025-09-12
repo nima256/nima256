@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nima
 
-🎯 **Backend Developer | Node.js • Express • MongoDB**  
+🎯 **Backend Developer | Node.js • javaScript • Express • MongoDB**  
 📍 Student at **Alborz PNU University**  
 💼 Career Goal: **Freelancing & Backend Development**
 
